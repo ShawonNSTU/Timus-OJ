@@ -1,3 +1,8 @@
+/*
+    Email: shuvroshawon9@gmail.com
+    ID: ShawonNSTU
+*/
+
 #include <stdio.h>
 #include <math.h>
 #define MAX 164000
